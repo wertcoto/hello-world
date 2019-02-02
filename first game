@@ -1,0 +1,5 @@
+var n;
+function  setup () {
+   createCanvas ( 100 , 100 );
+  n =  aléatoire ( 100 );
+  
